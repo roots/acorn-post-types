@@ -20,7 +20,7 @@ composer require roots/acorn-post-types
 Start by optionally publishing the post-types config:
 
 ```shell
-$ wp acorn vendor:publish --provider="Roots\AcornPostTypes\AcornPostTypesServiceProvider"
+wp acorn vendor:publish --provider="Roots\AcornPostTypes\AcornPostTypesServiceProvider"
 ```
 
 ## Usage
